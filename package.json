@@ -1,11 +1,15 @@
 {
   "name": "wordtopass",
   "version": "1.0.0",
-  "description": "Word to password",
+  "description": "Word to password generator",
+  "keywords": "word, password, generator",
+  "homepage": "https://github.com/dimasjt/wordtopass",
+  "bugs": "https://github.com/dimasjt/wordtopass/issues",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "preferGlobal": true,
   "author": "Dimas J. Taniawan",
   "license": "MIT",
   "dependencies": {
