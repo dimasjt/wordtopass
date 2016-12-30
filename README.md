@@ -9,7 +9,7 @@ Word to readable password generator
 ```bash
 $ npm install -g wordtopass
 
-if there's some error like "npm ERR! Error: EACCES", run this command
+# if there's some error like "npm ERR! Error: EACCES", run this command
 $ sudo npm install -g wordtopass
 ```
 
