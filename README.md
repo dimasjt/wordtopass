@@ -19,3 +19,6 @@ $ wordtopress
 - prompt: Enter the word you want to generate:  motherfucker
 - Generated password : M0tH3RfU<k3r
 ```
+
+# License
+[MIT](https://github.com/dimasjt/wordtopass/blob/master/LICENSE)
