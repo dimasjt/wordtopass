@@ -1,0 +1,14 @@
+{
+  "name": "wordtopass",
+  "version": "1.0.0",
+  "description": "Word to password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimas J. Taniawan",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
