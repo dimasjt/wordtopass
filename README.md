@@ -15,7 +15,7 @@ $ sudo npm install -g wordtopass
 
 # Usage
 ```bash
-$ wordtopress
+$ wordtopass
 - prompt: Enter the word you want to generate:  motherfucker
 - Generated password : M0tH3RfU<k3r
 ```
